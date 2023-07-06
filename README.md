@@ -10,7 +10,7 @@
 
 ## 关于
 
-**mini-spring**是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。
+**mini-spring**是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，**代码极度简化，保留spring的核心功能**，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。
 
 如果本项目能帮助到你，请给个**STAR，谢谢！！！**
 
@@ -53,8 +53,9 @@
 * [解决循环依赖问题（一）：没有代理对象](https://github.com/DerekYRC/mini-spring/blob/main/changelog.md#解决循环依赖问题一没有代理对象)
 * [解决循环依赖问题（二）：有代理对象](https://github.com/DerekYRC/mini-spring/blob/main/changelog.md#解决循环依赖问题二有代理对象)
 
-#### Bug fix
+#### 其他
 * [没有为代理bean设置属性(discovered and fixed by kerwin89)](https://github.com/DerekYRC/mini-spring/blob/main/changelog.md#bug-fix没有为代理bean设置属性discovered-and-fixed-by-kerwin89)
+* [支持懒加载和多切面增强(by zqczgl)](https://github.com/DerekYRC/mini-spring/blob/main/changelog.md#支持懒加载和多切面增强by-zqczgl)
 
 ## 使用方法
 阅读[changelog.md](https://github.com/DerekYRC/mini-spring/blob/main/changelog.md)
@@ -65,10 +66,10 @@
 ## 贡献
 欢迎Pull Request
 
-## 联系我
-手机/微信：**15521077528**
+## 关于我
+[**点此了解**](https://github.com/DerekYRC)
 
-邮箱：**15521077528@163.com**
+手机/微信：**15521077528**  邮箱：**15521077528@163.com**
 
 ## Star History
 
